@@ -1,0 +1,15 @@
+{
+    "name": "wild/app",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mgg24",
+            "email": "mgonotey.git@gmail.com"
+        }
+    ],
+    "require": {}
+}
